@@ -1,0 +1,49 @@
+Account Id = 70
+Name = Tan Beng How
+Address = Blk 111 #05-06, Nanyang Avenue, Singapore 639798
+DOB = 12-07-1979
+Phone Number = 799-8765
+Account Balance = 2324.23
+
+Account Id = 17
+Name = Mohammed Azeem
+Address = Blk 230 #20-116, Yishun Ave 11, Singapore 439772
+DOB = 19-11-1979
+Phone Number = 224-0098
+Account Balance = 1087.03
+
+Account Id = 67
+Name = Hu Zengqin
+Address = Blk 123 #12-33, Ang Mo Kio, Singapore 123112
+DOB = 11-04-1978
+Phone Number = 287-0987
+Account Balance = 566.00
+
+Account Id = 24
+Name = Sivakumar Ravi
+Address = Blk 22 #35-66, New Upper Changi Road, Singapore 734498
+DOB = 13-08-1980
+Phone Number = 251-7787
+Account Balance = 620.25
+
+Account Id = 64
+Name = Jennifer Bryant
+Address = 81 #12-03, Rosewood Avenue, Singapore 883122
+DOB = 10-03-1981
+Phone Number = 297-4920
+Account Balance = 4179.52
+
+Account Id = 123
+Name = Matt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Singapore 7666322
+DOB = 10-10-1970
+Phone Number = 790-3233
+Account Balance = 405600.00
+
+Account Id = 126
+Name = Ben Affleck
+Address = 200 Hunting Street, Singapore 784563
+DOB = 25-10-1968
+Phone Number = 432-4579
+Account Balance = 530045.00
+

@@ -1,0 +1,227 @@
+Script started on Wed Jan 14 00:00:31 2009
+bash-3.2$ clear
+bash-3.2$ clearjava -jar ../dist/Lab1.jar < commands 
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+a
+
+
+Error: Please enter the correct value for main menu selection
+
+
+
+Error: Please enter the correct value for main menu selection
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+11
+
+
+Error: Please enter the correct value for main menu selection
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+q
+
+
+Error: Please enter the correct value for main menu selection
+
+
+
+Error: Please enter the correct value for main menu selection
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+1
+Enter Matrix 1 File: matrix1.txt
+Enter Matrix 2 File: matrix2.txt
+
+Matrix 1
+
+1.0	2.0	
+2.0	4.0	
+
+
+Matrix 2
+
+1.0	2.0	
+2.0	4.0	
+
+
+The Summation Result is
+
+2.0	4.0	
+4.0	8.0	
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+2
+Enter Matrix 1 File: matrix3.txt
+Enter Matrix 2 File: matrix1.txt
+
+Matrix 1
+
+1.0	2.0	
+2.0	4.0	
+1.0	1.0	
+
+
+Matrix 2
+
+1.0	2.0	
+2.0	4.0	
+
+
+The Multiplication Result is
+
+5.0	10.0	
+10.0	20.0	
+3.0	6.0	
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+3
+Enter Matrix 1 File: m4.txt
+
+Matrix 1
+
+1.0	2.0	3.0	4.0	5.0	6.0	7.0	8.0	9.0	0.0	
+2.0	4.0	6.0	8.0	10.0	12.0	14.0	16.0	18.0	20.0	
+-1.0	-2.0	-3.0	-4.0	-5.0	-6.0	-7.0	-8.0	-9.0	0.0	
+1.0	2.0	3.0	4.0	5.0	6.0	7.0	8.0	9.0	0.0	
+2.0	4.0	6.0	8.0	10.0	12.0	14.0	16.0	18.0	20.0	
+-1.0	-2.0	-3.0	-4.0	-5.0	-6.0	-7.0	-8.0	-9.0	0.0	
+1.0	2.0	3.0	4.0	5.0	6.0	7.0	8.0	9.0	0.0	
+2.0	4.0	6.0	8.0	10.0	12.0	14.0	16.0	18.0	20.0	
+-1.0	-2.0	-3.0	-4.0	-5.0	-6.0	-7.0	-8.0	-9.0	0.0	
+1.0	2.0	3.0	4.0	5.0	6.0	7.0	8.0	9.0	0.0	
+
+
+Transpose results is
+
+1.0	2.0	-1.0	1.0	2.0	-1.0	1.0	2.0	-1.0	1.0	
+2.0	4.0	-2.0	2.0	4.0	-2.0	2.0	4.0	-2.0	2.0	
+3.0	6.0	-3.0	3.0	6.0	-3.0	3.0	6.0	-3.0	3.0	
+4.0	8.0	-4.0	4.0	8.0	-4.0	4.0	8.0	-4.0	4.0	
+5.0	10.0	-5.0	5.0	10.0	-5.0	5.0	10.0	-5.0	5.0	
+6.0	12.0	-6.0	6.0	12.0	-6.0	6.0	12.0	-6.0	6.0	
+7.0	14.0	-7.0	7.0	14.0	-7.0	7.0	14.0	-7.0	7.0	
+8.0	16.0	-8.0	8.0	16.0	-8.0	8.0	16.0	-8.0	8.0	
+9.0	18.0	-9.0	9.0	18.0	-9.0	9.0	18.0	-9.0	9.0	
+0.0	20.0	0.0	0.0	20.0	0.0	0.0	20.0	0.0	0.0	
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+4
+Enter Matrix to display: 1
+
+m1 is 
+1.0	2.0	3.0	4.0	5.0	6.0	7.0	8.0	9.0	0.0	
+2.0	4.0	6.0	8.0	10.0	12.0	14.0	16.0	18.0	20.0	
+-1.0	-2.0	-3.0	-4.0	-5.0	-6.0	-7.0	-8.0	-9.0	0.0	
+1.0	2.0	3.0	4.0	5.0	6.0	7.0	8.0	9.0	0.0	
+2.0	4.0	6.0	8.0	10.0	12.0	14.0	16.0	18.0	20.0	
+-1.0	-2.0	-3.0	-4.0	-5.0	-6.0	-7.0	-8.0	-9.0	0.0	
+1.0	2.0	3.0	4.0	5.0	6.0	7.0	8.0	9.0	0.0	
+2.0	4.0	6.0	8.0	10.0	12.0	14.0	16.0	18.0	20.0	
+-1.0	-2.0	-3.0	-4.0	-5.0	-6.0	-7.0	-8.0	-9.0	0.0	
+1.0	2.0	3.0	4.0	5.0	6.0	7.0	8.0	9.0	0.0	
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+4
+Enter Matrix to display: 2
+
+m2 is 
+1.0	2.0	
+2.0	4.0	
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+1
+Enter Matrix 1 File: m5.  4.txt
+Enter Matrix 2 File: matrix1.txt
+
+Matrix not of same sizes. Cannot add.
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+2
+Enter Matrix 1 File: matrix1.txt
+Enter Matrix 2 File: matrix2.txt
+
+Matrix 1
+
+1.0	2.0	
+2.0	4.0	
+
+
+Matrix 2
+
+1.0	2.0	
+2.0	4.0	
+
+
+The Multiplication Result is
+
+5.0	10.0	
+10.0	20.0	
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+2
+Enter Matrix 1 File: matrix4      4.txt
+Enter Matrix 2 File: matrix1.txt
+Matrix 1 Columns and Matrix 2 Rows are not equal. Cannot multiply.
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+3
+Enter Matrix 1 File: hellothere.txt
+Error: java.io.FileNotFoundException: hellothere.txt (No such file or directory)
+
+
+(1) Add two matrices
+(2) Multiply two matrices
+(3) Take transpose of a matrix
+(4) Display a Matrix
+(5) Exit
+5
+bash-3.2$ exit
+
+Script done on Wed Jan 14 00:02:20 2009

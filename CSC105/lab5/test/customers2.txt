@@ -1,0 +1,24 @@
+Account Id = 70
+Name = Tan Beng How
+Address = Blk 111 #05-06, Nanyang Avenue, Singapore 639798
+DOB = 12-07-1979
+Phone Number = 7998765
+Account Balance = 2324.23
+Account Type = Checking
+
+Account Id = 17
+Name = Mohammed Azeem
+Address = Blk 230 #20-116, Yishun Ave 11, Singapore 439772
+DOB = 19-11-1979
+Phone Number = 2240098
+Account Balance = 1087.03
+Account Type = Checking
+
+Account Id = 67
+Name = Hu Zengqin
+Address = Blk 123 #12-33, Ang Mo Kio, Singapore 123112
+DOB = 11-04-1978
+Phone Number = 2870987
+Account Balance = 566.00
+Account Type = Saving 
+

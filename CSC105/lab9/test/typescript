@@ -1,0 +1,157 @@
+Script started on Tue Apr  7 21:57:37 2009
+bash-3.2$ lsjava -jar ../dist/lab9.jar
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 1
+
+Phile for T1: customers.txt
+9 records read.
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 3
+
+List of deepest nodes:
+80 124 235 
+
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 7
+
+ID to hunt for: 78
+No granduncle nodes
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 7
+
+ID to hunt for: 80
+Grand uncle nodes: 
+65 126 
+
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 2
+
+In-order listof the node IDs:
+65 78 80 123 124 125 126 234 235 
+
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 4
+
+Descending order list of node IDs
+235 234 126 125 124 123 80 78 65 
+
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 6
+
+Name1 for destination merge: Zoe Tay
+
+Name2 for source merge: Kara Soong
+Merge success
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 2
+
+In-order listof the node IDs:
+65 78 123 124 125 126 234 235 
+
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 4
+
+Descending order list of node IDs
+235 234 126 125 124 123 78 65 
+
+
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 5
+
+Phile for T1: customers2.txt
+
+Phile for T2: customers3.txt
+11 records read.
+Post order list of node IDs:
+21 30 28 38 
+(1) Read data to BST
+(2) In-order
+(3) Print deepest ndoes
+(4) Print descending order
+(5) Intersect
+(6) Merge 2 accounts
+(7) Find remote granduncle
+(8) Exit
+Selection: 8
+bash-3.2$ exit
+
+Script done on Tue Apr  7 21:58:58 2009

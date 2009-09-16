@@ -1,0 +1,81 @@
+Script started on Wed Mar 11 02:36:04 2009
+bash-3.2$ java -jar ../dist/lab6.jar
+(1) Input Data
+(2) Display Data
+(3) Output Data
+(4) Delete Record
+(5) Update records
+(6) Insert Transactions
+(7) Balance Mean
+(8) Touring Partners
+(Q) Quit
+1
+Enter file to grab input: customers.txt
+5 records read.
+(1) Input Data
+(2) Display Data
+(3) Output Data
+(4) Delete Record
+(5) Update records
+(6) Insert Transactions
+(7) Balance Mean
+(8) Touring Partners
+(Q) Quit
+1
+Enter file to grab input: customers2.txt
+3 records read.
+(1) Input Data
+(2) Display Data
+(3) Output Data
+(4) Delete Record
+(5) Update records
+(6) Insert Transactions
+(7) Balance Mean
+(8) Touring Partners
+(Q) Quit
+6
+Enter file to grab transactions: transactions.txt
+Error: cannot find account number for transaction "Account ID = 107, Date Time = 07-09-2008 14:34, Type = debit, Amount = 100.0, Location = 8".
+46 records read.
+(1) Input Data
+(2) Display Data
+(3) Output Data
+(4) Delete Record
+(5) Update records
+(6) Insert Transactions
+(7) Balance Mean
+(8) Touring Partners
+(Q) Quit
+8
+Account ID to search: 65
+Account ID = 17, Date Time = 10-09-2008 18:59, Type = debit, Amount = 200.0, Location = 1
+Account ID = 17, Date Time = 10-09-2008 18:59, Type = debit, Amount = 200.0, Location = 2
+Account ID = 17, Date Time = 11-09-2008 18:59, Type = debit, Amount = 200.0, Location = 1
+Account ID = 17, Date Time = 11-09-2008 18:59, Type = debit, Amount = 200.0, Location = 2
+Account ID = 123, Date Time = 12-09-2008 12:00, Type = debit, Amount = 100.0, Location = 1
+Account ID = 17, Date Time = 12-09-2008 18:59, Type = debit, Amount = 200.0, Location = 1
+Account ID = 17, Date Time = 12-09-2008 18:59, Type = debit, Amount = 200.0, Location = 2
+Account ID = 17, Date Time = 25-09-2008 18:59, Type = debit, Amount = 200.0, Location = 99
+Account ID = 123, Date Time = 25-09-2008 18:59, Type = debit, Amount = 200.0, Location = 99
+Account ID = 67, Date Time = 25-09-2008 18:59, Type = debit, Amount = 200.0, Location = 99
+Account ID = 17, Date Time = 26-09-2008 17:51, Type = debit, Amount = 200.0, Location = 99
+Account ID = 17, Date Time = 26-09-2008 17:53, Type = debit, Amount = 200.0, Location = 99
+Account ID = 17, Date Time = 26-09-2008 17:59, Type = debit, Amount = 200.0, Location = 99
+Account ID = 123, Date Time = 26-09-2008 17:59, Type = debit, Amount = 200.0, Location = 99
+Account ID = 17, Date Time = 27-09-2008 16:59, Type = debit, Amount = 200.0, Location = 99
+Account ID = 123, Date Time = 27-09-2008 16:59, Type = debit, Amount = 200.0, Location = 99
+Account ID = 67, Date Time = 27-09-2008 16:59, Type = debit, Amount = 200.0, Location = 99
+
+(1) Input Data
+(2) Display Data
+(3) Output Data
+(4) Delete Record
+(5) Update records
+(6) Insert Transactions
+(7) Balance Mean
+(8) Touring Partners
+(Q) Quit
+q
+bash-3.2$ exit
+
+Script done on Wed Mar 11 02:36:34 2009

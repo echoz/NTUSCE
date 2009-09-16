@@ -1,0 +1,41 @@
+Account Id = 10
+Name = Tan Beng How
+Address = Blk 111 #05-06, Nanyang Avenue, Singapore 639798
+DOB = 12-07-1979
+Phone Number = 7998765
+Account Balance = 2324.23
+
+Account Id = 15
+Name = Mohammed Azeem
+Address = Blk 230 #20-116, Yishun Ave 11, Singapore 439772
+DOB = 19-11-1979
+Phone Number = 2240098
+Account Balance = 1087.03
+
+Account Id = 12
+Name = Hu Zengqin
+Address = Blk 123 #12-33, Ang Mo Kio, Singapore 123112
+DOB = 11-04-1978
+Phone Number = 2870987
+Account Balance = 566.00
+
+Account Id = 6
+Name = Sivakumar Ravi
+Address = Blk 22 #35-66, New Upper Changi Road, Singapore 734498
+DOB = 13-08-1980
+Phone Number = 2517787
+Account Balance = 620.25
+
+Account Id = 7
+Name = Jennifer Bryant
+Address = 81 #12-03, Rosewood Avenue, Singapore 883122
+DOB = 10-03-1981
+Phone Number = 2974920
+Account Balance = 4179.52
+
+Account Id = 2
+Name = Matt Johnson
+Address = 4 Ripley Boulevard, Oscar Mansion, Singapore 7666322
+DOB = 10-10-1979
+Phone Number = 790-1234
+Account Balance = 405.00

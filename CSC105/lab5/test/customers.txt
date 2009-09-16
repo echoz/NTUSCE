@@ -1,0 +1,41 @@
+Account Id = 123
+Name = Matt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Singapore 7666322
+DOB = 10-10-1970
+Phone Number = 790-3233
+Account Balance = 405600.00
+Account Type = Fixed
+Fixed Daily Interest = 0.05
+
+Account Id = 126
+Name = Ben Affleck
+Address = 200 Hunting Street, Singapore 784563
+DOB = 25-10-1968
+Phone Number = 432-4579
+Account Balance = 530045.00
+Account Type = Saving
+
+Account Id = 65
+Name = Salma Hayek
+Address = 45 Mexican Boulevard, Hotel California, Singapore 467822
+DOB = 06-04-73
+Phone Number = 790-0000
+Account Balance = 2345.00
+Account Type = Checking
+
+Account Id = 78
+Name = Phua Chu Kang
+Address = 50 PCK Avenue, Singapore 639798
+DOB = 11-08-64
+Phone Number = 345-6780
+Account Balance = 0.00
+Account Type = Checking
+
+Account Id = 234
+Name = Zoe Tay
+Address = 100 Blue Eyed St, Singapore 456872
+DOB = 15-02-68
+Phone Number = 456-1234
+Account Balance = 600.00
+Account Type = Saving
+

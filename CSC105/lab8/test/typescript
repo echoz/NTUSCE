@@ -1,0 +1,52 @@
+Script started on Tue Mar 31 21:28:47 2009
+bash-3.2$ java -jar ../dist/lab8.jar < om[K[Kcommands
+
+(1) Read data to graph
+(2) Depth first
+(3) Breadth first
+(4) Connected components
+(5) Exit
+Selection: 
+Phile for graph: 8 nodes read.
+
+(1) Read data to graph
+(2) Depth first
+(3) Breadth first
+(4) Connected components
+(5) Exit
+Selection: 0 1 2 3 
+4 5 
+6 
+7 
+4
+
+(1) Read data to graph
+(2) Depth first
+(3) Breadth first
+(4) Connected components
+(5) Exit
+Selection: 
+Phile for graph: 8 nodes read.
+
+(1) Read data to graph
+(2) Depth first
+(3) Breadth first
+(4) Connected components
+(5) Exit
+Selection: 
+Node ID: 0 1 2 3 
+(1) Read data to graph
+(2) Depth first
+(3) Breadth first
+(4) Connected components
+(5) Exit
+Selection: 
+Node ID: 3 2 0 1 
+(1) Read data to graph
+(2) Depth first
+(3) Breadth first
+(4) Connected components
+(5) Exit
+Selection: bash-3.2$ exit
+
+Script done on Tue Mar 31 21:28:59 2009
