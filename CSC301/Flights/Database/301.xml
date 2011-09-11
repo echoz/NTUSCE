@@ -1,0 +1,201 @@
+<Timetable>
+  <Route origin="Singapore" destination="London">
+	  <Flight no="BA58">
+		  <depart nextDay="false">23:10</depart>
+		  <arrive nextDay="true">5:20</arrive>
+		  <operation>
+			  <day>Mo</day>
+			  <day>We</day>
+			  <day>Th</day>
+        <day>Sa</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="London" destination="Singapore">
+	  <Flight no="BA24">
+		  <depart nextDay="false">10:00</depart>
+		  <arrive nextDay="false">16:10</arrive>
+		  <operation>
+			  <day>Mo</day>
+			  <day>We</day>
+			  <day>Th</day>
+			  <day>Sa</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="London" destination="Edinburgh">
+	  <Flight no="BA4732">
+		  <depart nextDay="false">9:40</depart>
+		  <arrive nextDay="false">10:50</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+	  <Flight no="BA4735">
+		  <depart nextDay="false">11:40</depart>
+		  <arrive nextDay="false">12:50</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+	  <Flight no="BA4822">
+		  <depart nextDay="false">18:40</depart>
+		  <arrive nextDay="false">19:50</arrive>
+		  <operation>
+			  <day>Mo</day>
+			  <day>Tu</day>
+			  <day>We</day>
+			  <day>Th</day>
+			  <day>Fr</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="Edinburgh" destination="London">
+	  <Flight no="BA4733">
+		  <depart nextDay="false">8:30</depart>
+		  <arrive nextDay="false">9:40</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+	  <Flight no="BA4736">
+		  <depart nextDay="false">13:40</depart>
+		  <arrive nextDay="false">14:50</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+	  <Flight no="BA4833">
+		  <depart nextDay="false">19:40</depart>
+		  <arrive nextDay="false">20:50</arrive>
+		  <operation>
+			  <day>Mo</day>
+			  <day>Tu</day>
+			  <day>We</day>
+			  <day>Th</day>
+			  <day>Fr</day>
+			  <day>Su</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="London" destination="Greece">
+	  <Flight no="BA614">
+		  <depart nextDay="false">9:10</depart>
+		  <arrive nextDay="false">12:45</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+	  <Flight no="SR805">
+		  <depart nextDay="false">14:45</depart>
+		  <arrive nextDay="false">18:20</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="Greece" destination="London">
+	  <Flight no="BA613">
+		  <depart nextDay="false">9:00</depart>
+		  <arrive nextDay="false">11:40</arrive>
+		  <operation>
+			  <day>Mo</day>
+			  <day>Tu</day>
+			  <day>We</day>
+			  <day>Th</day>
+			  <day>Fr</day>
+			  <day>Sa</day>
+		  </operation>
+	  </Flight>
+	  <Flight no="SR806">
+		  <depart nextDay="false">16:10</depart>
+		  <arrive nextDay="false">18:55</arrive>
+		  <operation>
+			  <day>Mo</day>
+			  <day>Tu</day>
+			  <day>We</day>
+			  <day>Th</day>
+			  <day>Fr</day>
+			  <day>Su</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="London" destination="Paris">
+	  <Flight no="BA510">
+		  <depart nextDay="false">8:30</depart>
+		  <arrive nextDay="false">10:30</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+	  <Flight no="AZ459">
+		  <depart nextDay="false">13:10</depart>
+		  <arrive nextDay="false">15:10</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="Paris" destination="London">
+	  <Flight no="BA511">
+		  <depart nextDay="false">9:10</depart>
+		  <arrive nextDay="false">10:20</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+	  <Flight no="AZ460">
+		  <depart nextDay="false">12:20</depart>
+		  <arrive nextDay="false">13:30</arrive>
+		  <operation>
+			  <day>Alldays</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="Paris" destination="Rome">
+	  <Flight no="JP322">
+		  <depart nextDay="false">11:30</depart>
+		  <arrive nextDay="false">12:40</arrive>
+		  <operation>
+			  <day>Tu</day>
+			  <day>We</day>
+			  <day>Th</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="Rome" destination="Paris">
+	  <Flight no="JP323">
+		  <depart nextDay="false">13:30</depart>
+		  <arrive nextDay="false">14:40</arrive>
+		  <operation>
+			  <day>Tu</day>
+			  <day>We</day>
+			  <day>Th</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="Rome" destination="Greece">
+	  <Flight no="FS619">
+		  <depart nextDay="false">14:40</depart>
+		  <arrive nextDay="false">16:30</arrive>
+		  <operation>
+			  <day>Mo</day>
+			  <day>We</day>
+			  <day>Th</day>
+			  <day>Fr</day>
+		  </operation>
+	  </Flight>
+  </Route>
+  <Route origin="Greece" destination="Rome">
+	  <Flight no="FS620">
+		  <depart nextDay="false">11:00</depart>
+		  <arrive nextDay="false">13:10</arrive>
+		  <operation>
+			  <day>Mo</day>
+			  <day>We</day>
+			  <day>Th</day>
+			  <day>Fr</day>
+		  </operation>
+	  </Flight>
+  </Route>
+</Timetable>
